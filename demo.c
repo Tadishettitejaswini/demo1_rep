@@ -2,5 +2,6 @@
 int main()
 {
   printf("hello world");
+  printf("welcome to vbit");
 return 0;
 }
